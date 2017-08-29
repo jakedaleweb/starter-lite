@@ -1,5 +1,5 @@
 {
-    "name": "cwp/starter-theme",
+    "name": "jakedaleweb/starter-lite",
     "description": "CWP Theme",
     "type": "silverstripe-theme",
     "keywords": [
@@ -7,9 +7,6 @@
         "theme"
     ],
     "license": "BSD-3-Clause",
-    "require": {
-        "cwp/cwp": "^1.6@dev"
-    },
     "extra": {
         "installer-name": "starter"
     }
